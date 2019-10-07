@@ -1,2 +1,3 @@
 # dummy-project
-Dummy project
+
+This is no longer a dummy project.
